@@ -1,0 +1,13 @@
+growth_scenario,monthly_growth_rate,optimization_scenario,usage_reduction_rate,annual_list_usage_usd,payg_cost_usd,contract_cost_usd,estimated_savings_usd
+Flat,0.0,No optimization,0.0,388789.43,388789.43,360000.0,28789.43
+Flat,0.0,10% usage reduction,0.1,349910.49,349910.49,360000.0,-10089.51
+Flat,0.0,30% usage reduction,0.3,272152.6,272152.6,360000.0,-87847.4
+2% monthly growth,0.02,No optimization,0.0,443230.69,443230.69,376746.09,66484.6
+2% monthly growth,0.02,10% usage reduction,0.1,398907.62,398907.62,360000.0,38907.62
+2% monthly growth,0.02,30% usage reduction,0.3,310261.49,310261.49,360000.0,-49738.51
+4% monthly growth,0.04,No optimization,0.0,506295.78,506295.78,430351.41,75944.37
+4% monthly growth,0.04,10% usage reduction,0.1,455666.2,455666.2,387316.27,68349.93
+4% monthly growth,0.04,30% usage reduction,0.3,354407.04,354407.04,360000.0,-5592.96
+6% monthly growth,0.06,No optimization,0.0,579365.51,579365.51,492460.68,86904.83
+6% monthly growth,0.06,10% usage reduction,0.1,521428.96,521428.96,443214.62,78214.34
+6% monthly growth,0.06,30% usage reduction,0.3,405555.86,405555.86,360000.0,45555.86
