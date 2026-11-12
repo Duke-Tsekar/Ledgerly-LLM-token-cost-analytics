@@ -17,7 +17,7 @@ Ledgerly is a B2B spend-management SaaS company offering AI features through a p
 | Mariam | Director, Product AI | Tenant economics, usage caps and pricing |
 | Tunde | Head of Platform Engineering | API efficiency, reliability and operational waste |
 
-As an analyst supporting Finance, Product, and Platform Engineering. The goal was not simply to report token usage, but to turn request-level data into evidence that could guide these decisions.
+I acted as an analyst supporting Finance, Product, and Platform Engineering. The goal was not simply to report token usage, but to turn request-level data into evidence that could guide these decisions.
 
 **Tools:** SQL, DuckDB, Python, Power BI
 
